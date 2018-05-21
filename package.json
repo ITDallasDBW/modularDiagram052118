@@ -1,7 +1,6 @@
 {
   "name": "node-jwt-auth",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -27,5 +26,9 @@
     "chai-http": "^3.0.0",
     "faker": "^3.1.0",
     "mocha": "^4.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
 }
